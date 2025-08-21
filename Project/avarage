@@ -1,0 +1,22 @@
+{
+  "/api/context/...": {
+    "count": 43928,
+    "avg_response_time": 0.02
+  },
+  "/api/homeworks/...": {
+    "count": 55312,
+    "avg_response_time": 0.09
+  },
+  "/api/specializations/...": {
+    "count": 8335,
+    "avg_response_time": 0.05
+  },
+  "/api/users/...": {
+    "count": 1447,
+    "avg_response_time": 0.07
+  },
+  "/api/challenges/...": {
+    "count": 1476,
+    "avg_response_time": 0.08
+  }
+}
